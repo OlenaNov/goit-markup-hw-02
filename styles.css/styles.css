@@ -16,11 +16,13 @@ background: #ECECEC; */
     --color-back-btn: #F5F4FA;
     --color-logo: #000000;
     --color-footer-link: rgba(255, 255, 255, 0.6);
+    --color-active-btn: #188CE8;
 }
 
 body {
     background-color: var(--color-light);
     font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.03em;
 }
 
 /* Студія header */
@@ -34,7 +36,6 @@ body {
     font-weight: 700;
     font-size: 26px;
     line-height: 1,19;
-    letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--color-accent);
 }
@@ -100,12 +101,10 @@ body {
     cursor: pointer;
 }
 
-/* .hero-btn:hover,
+.hero-btn:hover,
 .hero-btn:focus {
-?????????????????????????????????????
-???????????????????????????????
-??????????????????
-} */
+background: var(--color-active-btn);
+}
 
 
 /* Студія Наші переваги */
@@ -114,7 +113,6 @@ body {
 font-weight: 700;
 font-size: 14px;
 line-height: 1,14;
-letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--color-title);
 }
@@ -123,7 +121,6 @@ color: var(--color-title);
 font-weight: 400;
 font-size: 14px;
 line-height: 1,71;
-letter-spacing: 0.03em;
 color: var(--color-text);
 }
 
@@ -134,7 +131,6 @@ font-weight: 700;
 font-size: 36px;
 line-height: 1,17;
 text-align: center;
-letter-spacing: 0.03em;
 color: var(--color-title);
 }
 
@@ -151,8 +147,6 @@ color: var(--color-title);
     font-weight: 500;
     font-size: 16px;
     line-height: 1,19;
-    text-align: center;
-    letter-spacing: 0.03em;
     color: var(--color-title);
 }
 
@@ -160,8 +154,6 @@ color: var(--color-title);
     font-weight: 400;
     font-size: 16px;
     line-height: 1,19;
-    text-align: center;
-    letter-spacing: 0.03em;
     color: var(--color-text);
 }
 
@@ -183,7 +175,6 @@ color: var(--color-title);
     font-weight: 400;
     font-size: 14px;
     line-height: 1,71;
-    letter-spacing: 0.03em;
     color: var(--color-light);
 }
 
@@ -191,7 +182,6 @@ color: var(--color-title);
     font-weight: 400;
     font-size: 14px;
     line-height: 1,71;
-    letter-spacing: 0.03em;
     color: var(--color-footer-link);
 }
 
@@ -215,8 +205,6 @@ color: var(--color-title);
     font-weight: 500;
     font-size: 16px;
     line-height: 1,63;
-    text-align: center;
-    letter-spacing: 0.03em;
     color: var(--color-title);
     background-color: var(--color-back-btn);
     cursor: pointer;
@@ -244,7 +232,6 @@ color: var(--color-title);
     font-weight: 400;
     font-size: 16px;
     line-height: 1,88;
-    letter-spacing: 0.03em;
     color: var(--color-text);
 }
 
