@@ -35,7 +35,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     text-decoration: none;
     color: var(--color-accent);
 }
@@ -47,7 +47,7 @@ body {
 .header-link {
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--color-title);
 }
@@ -65,7 +65,7 @@ body {
     color: var(--color-accent);
 }
 
-.tel {
+.tel-mail {
     color: var(--color-text);
 }
 
@@ -78,7 +78,7 @@ body {
 .hero-title {
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -89,7 +89,7 @@ body {
     font-family: inherit;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1,88;
+    line-height: 1.88;
     display: flex;
     align-items: center;
     text-align: center;
@@ -112,7 +112,7 @@ background: var(--color-active-btn);
 .benefits-subtitle {
 font-weight: 700;
 font-size: 14px;
-line-height: 1,14;
+line-height: 1.14;
 text-transform: uppercase;
 color: var(--color-title);
 }
@@ -120,7 +120,7 @@ color: var(--color-title);
 .benefits-text {
 font-weight: 400;
 font-size: 14px;
-line-height: 1,71;
+line-height: 1.71;
 color: var(--color-text);
 }
 
@@ -129,7 +129,7 @@ color: var(--color-text);
 .sections-title {
 font-weight: 700;
 font-size: 36px;
-line-height: 1,17;
+line-height: 1.17;
 text-align: center;
 color: var(--color-title);
 }
@@ -146,14 +146,14 @@ color: var(--color-title);
 .our-pro-subtitle {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,19;
+    line-height: 1.19;
     color: var(--color-title);
 }
 
 .our-pro-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,19;
+    line-height: 1.19;
     color: var(--color-text);
 }
 
@@ -174,14 +174,14 @@ color: var(--color-title);
 .footer-link-addr {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     color: var(--color-light);
 }
 
 .footer-link {
     font-weight: 400;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     color: var(--color-footer-link);
 }
 
@@ -204,7 +204,7 @@ color: var(--color-title);
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,63;
+    line-height: 1.63;
     color: var(--color-title);
     background-color: var(--color-back-btn);
     cursor: pointer;
@@ -231,7 +231,7 @@ color: var(--color-title);
 .portf-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1,88;
+    line-height: 1.88;
     color: var(--color-text);
 }
 
